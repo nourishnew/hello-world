@@ -1,3 +1,3 @@
 # hello-world
-my new project
-i am nourish  cherish.I want to be a software devoloper
+My name is Nourish Cherish. I want to be a software/app developer. This is my first week at Github. 
+Great platform to work collaborately.
